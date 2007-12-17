@@ -7,7 +7,6 @@ License:	BSD
 Group:		System/Configuration/Other
 Source0:	%{name}-%{version}.tar.bz2
 URL:		http://www.adel.nursat.kz/apg/
-BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
 Apg generates several random passwords. It uses several password
