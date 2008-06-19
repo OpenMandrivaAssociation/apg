@@ -2,7 +2,7 @@
 Summary:	Automated Password Generator (apg)
 Name:		apg
 Version:	2.2.3
-Release:	%mkrel 3
+Release:	%mkrel 4
 License:	BSD
 Group:		System/Configuration/Other
 Source0:	%{name}-%{version}.tar.bz2
